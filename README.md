@@ -76,6 +76,11 @@ Recommended Movies:
 4. Minority Report
 5. The Prestige
 ```
+## Output Image
+Here is a screenshot of the Streamlit app in action:
+
+![Screenshot 2024-07-26 161929](https://github.com/user-attachments/assets/9f6688ce-1bf3-46d5-929c-5d4fb50cc56d)
+
 
 ## Project Structure
 
